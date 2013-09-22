@@ -15,6 +15,8 @@ PyCon UK in Coventry, 22nd September 2013
 * Tim Garner
 * Mat Brunt <matbrunt@gmail.com>
 * John S
+* Ben McAlister https://github.com/bmcjamin @bmcjamin 
+
 
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
